@@ -10,6 +10,7 @@ This module runs the complete adversarial civilization simulation with:
 """
 
 import random
+import time
 import math
 from typing import List, Dict, Tuple, Optional
 from agent import Agent, Personality, ActionType
